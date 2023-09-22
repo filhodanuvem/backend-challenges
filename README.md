@@ -1,5 +1,12 @@
 # Backend Challenges
 
+Esse é um repositório fork de CollabCodeTech/backend-challenges. 
+Se está interessado em outros desafios, com solução, acesse [devgym.com.br](https://devgym.com.br?utm_campaign=backchal&utm_medium=social&utm_source=github). 
+
+![](https://raw.githubusercontent.com/devgymbr/files/main/devgymblack.png). 
+
+-----
+
 Want to test your knowledge using real jobs challenges? Here is a public list of open-source challenges from jobs around the world.
 
 Feel free to contribute! Only open-source challenges please!
