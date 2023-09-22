@@ -1,9 +1,9 @@
 # Backend Challenges
 
 Esse é um repositório fork de CollabCodeTech/backend-challenges. 
-Se está interessado em outros desafios, com solução, acesse [devgym.com.br](https://devgym.com.br?utm_campaign=backchal&utm_medium=social&utm_source=github). 
+Se está interessado em outros desafios, com solução, acesse [devgym.com.br](https://app.devgym.com.br?utm_campaign=backchal&utm_medium=social&utm_source=github). 
 
-![](https://raw.githubusercontent.com/devgymbr/files/main/devgymblack.png). 
+[![](https://raw.githubusercontent.com/devgymbr/files/main/devgymblack.png)](https://app.devgym.com.br?utm_campaign=backchal&utm_medium=social&utm_source=github) 
 
 -----
 
